@@ -31,18 +31,16 @@ O desafio de UX é fazer uma usuária sem perfil técnico ativar o agente em pou
                              
                               - ## Limitações conhecidas
                              
-                              - - Os testes usam um número de teste da Meta. O ElevenLabs ainda não oferece coexistência com o WhatsApp Business, então o número oficial da Flyaway exigirá outro caminho.
-                                - - A janela de 24 horas da API limita respostas livres; depois dela, só mensagens de modelo aprovadas.
-                                 
-                                  - ## Ferramentas e uso de IA
-                                 
-                                  - - **Figma:** protótipo, design system e fluxo navegável.
-                                    - - **Site:** as aulas sugerem o Framer, mas eu publico o site manualmente, na hospedagem e no domínio da Hostinger.
-                                      - - **IA:** o design foi desenvolvido com a ajuda do Claude (Anthropic), em ideação, estrutura, revisão e textos. As decisões e a conferência final são minhas. Os prompts usados estão na seção 1.6 do documento teórico.
-                                       
-                                        - ## Links
-                                       
-                                        - - Protótipo Figma: (adicionar link público: Share > Anyone with the link can view)
-                                          - - Parte teórica: (adicionar link do documento "Da Ideia à Experiência — ImpulsAI")
-                                            - - Vídeo pitch: (adicionar link público ou não listado)
-                                              - 
+                              - - O foco do trabalho é a interface. A conexão real com o WhatsApp (número de teste da Meta) serve apenas como demonstração do agente.
+                               
+                                - ## Uso de IA
+                               
+                                - - **Figma:** protótipo, design system e fluxo navegável.
+                                  - - **IA:** o design foi desenvolvido com a ajuda do Claude (Anthropic), em ideação, estrutura, revisão e textos. As decisões e a conferência final são minhas. Os prompts usados estão na seção 1.6 do documento teórico.
+                                   
+                                    - ## Links
+                                   
+                                    - - Protótipo Figma: (adicionar link público: Share > Anyone with the link can view)
+                                      - - Parte teórica: (adicionar link do documento "Da Ideia à Experiência — ImpulsAI")
+                                        - - Vídeo pitch: (adicionar link público ou não listado)
+                                          - 
