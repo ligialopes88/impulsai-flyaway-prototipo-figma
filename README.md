@@ -28,7 +28,7 @@ Implementação feita pela equipe ImpulsAI: a configuração do agente e a conex
 
 **5. Conversa assumida:** responder ao cliente (Enviar) ou Devolver ao agente.
 
-O protótipo tem 13 telas mobile, em moldura de celular Android (412 px), que são a entrega principal, e uma versão web complementar com 2 telas (1440 px: painel e conversas). Para navegar, abra o protótipo em modo apresentação e escolha o fluxo "App mobile (começa na abertura)" ou "Versão web (complementar)".
+O protótipo tem 13 telas mobile, em moldura de celular Android (412 px), que são a entrega principal, e uma versão web complementar com 7 telas (1440 px: painel, conversas, cotações, atendentes, conta administrativa, configurações e suporte), com o painel igual ao do app. As interações funcionam nas duas versões: o menu e os atalhos do Painel levam a cada tela, uma conversa abre ao toque, Assumir atendimento e Devolver ao agente trocam o estado, e o botão Voltar retorna à lista. Para navegar, abra o protótipo em modo apresentação e escolha o fluxo "App mobile (começa na abertura)" ou "Versão web".
 
 ## Decisões de design
 
